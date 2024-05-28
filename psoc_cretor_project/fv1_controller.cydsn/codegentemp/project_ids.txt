@@ -1,0 +1,6 @@
+Z:\Electronics Win7\PSoC projects\FV-1 Controller\fv1_controller.cydsn\fv1_controller.cyprj|af3560b9-bdb7-4a5f-b07e-59f7ed974878
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|fb1da1bf-8364-4462-bccd-97f820994427
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|8618c2b7-a016-4d2f-abde-a34a3bfa3183
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|c6cfed3b-c293-4956-9110-0b8e14089c04
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|6a03b797-ec6a-4fb5-a838-d7b147952e96
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|fd4c4108-5b84-48df-945e-aef61f593985
