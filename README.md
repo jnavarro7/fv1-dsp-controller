@@ -18,13 +18,13 @@ This directory includes an snippet of the schematic capture for the PSoC 4
 
 ![programming header](/doc/programming_header.jpeg)
 
-## Useage on a prototype 
+## Use example on a prototype 
 
 Use of this method in a prototype fx pedal 
 
 ![prototype2](/doc/prototype.GIF)
 ![board](/doc/board.GIF)
-
+¡
 ## FV-1 info
 
 http://www.spinsemi.com/Products/datasheets/spn1001/FV-1.pdf
